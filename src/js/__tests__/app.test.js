@@ -1,5 +1,5 @@
-import Bowman from '../bowman.js/';
-import Swordsman from '../swordsman.js/';
+import Bowman from '../bowman.js';
+import Swordsman from '../swordsman.js';
 import Team from '../app.js';
 
 test('Добавление героя в команду', () => {    
